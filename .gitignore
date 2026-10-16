@@ -1,0 +1,19 @@
+# Input data is never committed (see DATA_SOURCES.md)
+data/*
+!data/README.md
+!data/fetch_*.R
+!data/dictionaries/
+data/dictionaries/*
+!data/dictionaries/ucot_exp2_coding_key.csv
+
+# Pipeline outputs and stores
+output/*/*
+!output/*/.gitkeep
+_targets*/
+!_targets*.R
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron

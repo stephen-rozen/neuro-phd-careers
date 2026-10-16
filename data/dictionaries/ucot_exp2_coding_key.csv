@@ -1,0 +1,24 @@
+﻿Workforce Sector,Workforce sector number,,Career Type,Career type number,,Job Function,Job function number
+Academia,1,,Primarily Research,1,,Administration,1
+Government,2,,Primarily Teaching,2,,"Business development, consulting, and strategic alliances",2
+For-Profit,3,,Science-related,3,,Clinical research management,3
+Nonprofit,4,,Not Related to Science,4,,Clinical services,4
+Other,5,,Further Training or Education,5,,"Data science, analytics, and software engineering",5
+Unknown,6,,Unknown,6,,Entrepreneurship,6
+,,,,,,Teaching faculty or staff,7
+,,,,,,Group leader or Principal Investigator,8
+,,,,,,Healthcare provider,9
+,,,,,,Intellectual property and law,10
+,,,,,,Postdoctoral,11
+,,,,,,Regulatory affairs,12
+,,,,,,Research staff or technical director,13
+,,,,,,Sales and marketing,14
+,,,,,,Science education and outreach,15
+,,,,,,Science policy and government affairs,16
+,,,,,,Science writing and communication,17
+,,,,,,Technical support and product development,18
+,,,,,,Other,19
+,,,,,,Completing further education,20
+,,,,,,Deceased/retired,21
+,,,,,,Unknown,22
+,,,,,,Unemployed or Seeking Employment,23
